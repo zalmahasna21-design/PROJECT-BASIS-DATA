@@ -10,4 +10,3 @@ Ruang lingkup sistem meliputi:
 6. Pengelolaan data kantor cabang
 7. Pelacakan posisi paket (tracking)
 8. Laporan pengiriman
-<img width="353" height="250" alt="image" src="https://github.com/user-attachments/assets/96202394-93f1-4253-83f2-b2c46c9644cc" />
