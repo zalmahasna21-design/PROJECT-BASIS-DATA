@@ -18,5 +18,5 @@ Ruang lingkup sistem meliputi:
 4. Alifah Safitri (K1D024015)
 5. Armelda Shafa Wardhani (K1D024029) 
 
-# Drive Video Penjelasan Query
+# Drive Video Cara Menjalankan Query
 https://drive.google.com/drive/folders/1t3ABDT2POapqUFTgWKgQeCPRKgjYwASC?usp=sharing 
